@@ -1,0 +1,4 @@
+QA Manual
+Tool: Qase.io
+
+https://app.qase.io/public/report/392919f80eee42651609905c3c9e08d28547ba74
